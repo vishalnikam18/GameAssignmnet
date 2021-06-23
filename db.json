@@ -1,0 +1,32 @@
+{
+    "Games" : [{
+        "name" : "Grand Theft Auto – San Andreas",
+        "image" : "https://www.ubuntupit.com/wp-content/uploads/2019/10/Grand-Theft-Auto.png",
+        "price": 50
+    },
+    {
+        "name" : "Star Wars – Knights of the old republic",
+        "image" : "https://www.ubuntupit.com/wp-content/uploads/2019/10/Star-Wars.png",
+        "price": 25
+    },
+    {
+        "name" : "Reigns: Her Majesty",
+        "image" : "https://www.ubuntupit.com/wp-content/uploads/2019/10/Reigns-Her-Majesty.png",
+        "price": 50
+    },
+    {
+        "name" : "Modern Combat 4: Zero Hour",
+        "image" : "https://www.ubuntupit.com/wp-content/uploads/2019/10/Modern-Combat-4.png",
+        "price": 50
+    },
+    {
+        "name" : " Fruit Ninja Classic",
+        "image" : "https://www.ubuntupit.com/wp-content/uploads/2019/10/Fruit-Ninja-Classic.png",
+        "price": 50
+    },
+    {
+        "name" : "Out There: Omega Edition",
+        "image" : "https://www.ubuntupit.com/wp-content/uploads/2019/10/Out-There.png",
+        "price": 50
+    }]
+}
